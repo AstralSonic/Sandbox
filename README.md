@@ -1,4 +1,6 @@
 # Sandbox
+A general program that uses multiple elements of coding to provide working examples.
+
 abstract classes 
 Classes that can't be used to create objects
 
